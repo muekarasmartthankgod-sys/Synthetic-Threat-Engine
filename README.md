@@ -28,3 +28,5 @@ The system functions as a **Decision Intelligence (DI)** platform:
 
 ## 🔒 Security Notice
 The proprietary weights (`best.pt`) used for these tests were trained on sensitive Nigeria Customs Service data and are **not included** in this public repository to maintain national security protocols.
+
+Thankgod, S. (2026). Classification and Detection of Suspicious Consignments Using Deep Learning and Large Language Models. MSc Thesis, University of York. [In Progress]"
