@@ -37,3 +37,6 @@ This project is licensed under the **CC BY-NC-ND 4.0**.
 If you use this code or methodology in your research, please cite:
 **Thankgod, S. (2026). Synthetic-Threat-Engine: A Multimodal Framework for Automated 
 Customs Audit. MSc Thesis (In Progress), University of York.**
+
+![Synthetic Tyre Injection Sample](synthetic_tyre_injection_01.png)
+*Figure 1: A synthetic truck tyre radiometrically injected into a real-world cargo background using the Synthetic-Threat-Engine.*
