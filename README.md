@@ -30,3 +30,10 @@ The system functions as a **Decision Intelligence (DI)** platform:
 The proprietary weights (`best.pt`) used for these tests were trained on sensitive Nigeria Customs Service data and are **not included** in this public repository to maintain national security protocols.
 
 Thankgod, S. (2026). Classification and Detection of Suspicious Consignments Using Deep Learning and Large Language Models. MSc Thesis, University of York. [In Progress]"
+
+## ⚖️ License & Citation
+This project is licensed under the **CC BY-NC-ND 4.0**. 
+
+If you use this code or methodology in your research, please cite:
+**Thankgod, S. (2026). Synthetic-Threat-Engine: A Multimodal Framework for Automated 
+Customs Audit. MSc Thesis (In Progress), University of York.**
